@@ -1,4 +1,4 @@
-// I am not a developer, jsut an dangerous amateur who knows how to google. 
+// I am not a developer, just an dangerous amateur who knows how to google. 
 // I get code "working" there's no refinment here and no doubt this code is full of errors, but it works and doesn't crash.
 // combine the ESP8266 with a decent super heterodyne 433 mhz receiver (look for ones with crystals on them)
 // The ESP32 stuff foesn't work with the lightwave library, so this only works on ESP8266
